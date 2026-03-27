@@ -1,0 +1,106 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.selfHostingSidebar.category.Architecture": {
+    "message": "Architecture",
+    "description": "The label for category Architecture in sidebar selfHostingSidebar"
+  },
+  "sidebar.selfHostingSidebar.category.Workspaces": {
+    "message": "Workspaces",
+    "description": "The label for category Workspaces in sidebar selfHostingSidebar"
+  },
+  "sidebar.selfHostingSidebar.category.Security": {
+    "message": "Security",
+    "description": "The label for category Security in sidebar selfHostingSidebar"
+  },
+  "sidebar.selfHostingSidebar.category.Deploying MLflow to cloud": {
+    "message": "Deploying MLflow to cloud",
+    "description": "The label for category Deploying MLflow to cloud in sidebar selfHostingSidebar"
+  },
+  "sidebar.selfHostingSidebar.doc.Overview": {
+    "message": "Overview",
+    "description": "The label for the doc item Overview in sidebar selfHostingSidebar, linking to the doc workspaces/index"
+  },
+  "sidebar.selfHostingSidebar.doc.Tracking Server": {
+    "message": "Tracking Server",
+    "description": "The label for the doc item Tracking Server in sidebar selfHostingSidebar, linking to the doc architecture/tracking-server"
+  },
+  "sidebar.selfHostingSidebar.doc.Backend Store": {
+    "message": "Backend Store",
+    "description": "The label for the doc item Backend Store in sidebar selfHostingSidebar, linking to the doc architecture/backend-store"
+  },
+  "sidebar.selfHostingSidebar.doc.Artifact Store": {
+    "message": "Artifact Store",
+    "description": "The label for the doc item Artifact Store in sidebar selfHostingSidebar, linking to the doc architecture/artifact-store"
+  },
+  "sidebar.selfHostingSidebar.doc.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for the doc item Getting Started in sidebar selfHostingSidebar, linking to the doc workspaces/getting-started"
+  },
+  "sidebar.selfHostingSidebar.doc.Configuration": {
+    "message": "Configuration",
+    "description": "The label for the doc item Configuration in sidebar selfHostingSidebar, linking to the doc workspaces/configuration"
+  },
+  "sidebar.selfHostingSidebar.doc.Workspace Providers": {
+    "message": "Workspace Providers",
+    "description": "The label for the doc item Workspace Providers in sidebar selfHostingSidebar, linking to the doc workspaces/workspace-providers"
+  },
+  "sidebar.selfHostingSidebar.doc.Permissions": {
+    "message": "Permissions",
+    "description": "The label for the doc item Permissions in sidebar selfHostingSidebar, linking to the doc workspaces/permissions"
+  },
+  "sidebar.selfHostingSidebar.doc. Network Protection": {
+    "message": " Network Protection",
+    "description": "The label for the doc item  Network Protection in sidebar selfHostingSidebar, linking to the doc security/network"
+  },
+  "sidebar.selfHostingSidebar.doc.Username and Password": {
+    "message": "Username and Password",
+    "description": "The label for the doc item Username and Password in sidebar selfHostingSidebar, linking to the doc security/basic-http-auth"
+  },
+  "sidebar.selfHostingSidebar.doc.SSO (Single Sign-On)": {
+    "message": "SSO (Single Sign-On)",
+    "description": "The label for the doc item SSO (Single Sign-On) in sidebar selfHostingSidebar, linking to the doc security/sso"
+  },
+  "sidebar.selfHostingSidebar.doc.Custom Authentication": {
+    "message": "Custom Authentication",
+    "description": "The label for the doc item Custom Authentication in sidebar selfHostingSidebar, linking to the doc security/custom"
+  },
+  "sidebar.selfHostingSidebar.doc.Kubernetes Authentication": {
+    "message": "Kubernetes Authentication",
+    "description": "The label for the doc item Kubernetes Authentication in sidebar selfHostingSidebar, linking to the doc security/kubernetes"
+  },
+  "sidebar.selfHostingSidebar.doc.Secure Installs": {
+    "message": "Secure Installs",
+    "description": "The label for the doc item Secure Installs in sidebar selfHostingSidebar, linking to the doc security/secure-installs"
+  },
+  "sidebar.selfHostingSidebar.doc.AWS": {
+    "message": "AWS",
+    "description": "The label for the doc item AWS in sidebar selfHostingSidebar, linking to the doc deploy-to-cloud/aws"
+  },
+  "sidebar.selfHostingSidebar.doc.Azure": {
+    "message": "Azure",
+    "description": "The label for the doc item Azure in sidebar selfHostingSidebar, linking to the doc deploy-to-cloud/azure"
+  },
+  "sidebar.selfHostingSidebar.doc.GCP": {
+    "message": "GCP",
+    "description": "The label for the doc item GCP in sidebar selfHostingSidebar, linking to the doc deploy-to-cloud/gcp"
+  },
+  "sidebar.selfHostingSidebar.doc.Webhooks": {
+    "message": "Webhooks",
+    "description": "The label for the doc item Webhooks in sidebar selfHostingSidebar, linking to the doc webhooks/index"
+  },
+  "sidebar.selfHostingSidebar.doc.Upgrade": {
+    "message": "Upgrade",
+    "description": "The label for the doc item Upgrade in sidebar selfHostingSidebar, linking to the doc migration"
+  },
+  "sidebar.selfHostingSidebar.doc.Migrate from File Store": {
+    "message": "Migrate from File Store",
+    "description": "The label for the doc item Migrate from File Store in sidebar selfHostingSidebar, linking to the doc migrate-from-file-store"
+  },
+  "sidebar.selfHostingSidebar.doc.Troubleshooting & FAQs": {
+    "message": "Troubleshooting & FAQs",
+    "description": "The label for the doc item Troubleshooting & FAQs in sidebar selfHostingSidebar, linking to the doc troubleshooting"
+  }
+}

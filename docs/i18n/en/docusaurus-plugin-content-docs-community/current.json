@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.communitySidebar.doc.Community": {
+    "message": "Community",
+    "description": "The label for the doc item Community in sidebar communitySidebar, linking to the doc index"
+  },
+  "sidebar.communitySidebar.doc.Usage Tracking": {
+    "message": "Usage Tracking",
+    "description": "The label for the doc item Usage Tracking in sidebar communitySidebar, linking to the doc usage-tracking"
+  }
+}

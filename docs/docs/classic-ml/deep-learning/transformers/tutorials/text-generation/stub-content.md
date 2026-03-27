@@ -1,0 +1,4 @@
+---
+slug: text-generation
+---
+# stub

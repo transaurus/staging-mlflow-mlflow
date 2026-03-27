@@ -1,0 +1,302 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.classicMLSidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Machine Learning": {
+    "message": "Machine Learning",
+    "description": "The label for category Machine Learning in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Traditional ML": {
+    "message": "Traditional ML",
+    "description": "The label for category Traditional ML in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Tutorials": {
+    "message": "Tutorials",
+    "description": "The label for category Tutorials in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Hyperparameter Tuning with MLflow and Optuna": {
+    "message": "Hyperparameter Tuning with MLflow and Optuna",
+    "description": "The label for category Hyperparameter Tuning with MLflow and Optuna in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Notebooks": {
+    "message": "Notebooks",
+    "description": "The label for category Notebooks in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Building Custom Python Function Models with MLflow": {
+    "message": "Building Custom Python Function Models with MLflow",
+    "description": "The label for category Building Custom Python Function Models with MLflow in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Serving Multiple Models on a Single Endpoint with a Custom PyFunc Model": {
+    "message": "Serving Multiple Models on a Single Endpoint with a Custom PyFunc Model",
+    "description": "The label for category Serving Multiple Models on a Single Endpoint with a Custom PyFunc Model in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Deep Learning": {
+    "message": "Deep Learning",
+    "description": "The label for category Deep Learning in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Transformers": {
+    "message": "Transformers",
+    "description": "The label for category Transformers in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Sentence Transformers": {
+    "message": "Sentence Transformers",
+    "description": "The label for category Sentence Transformers in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Build ": {
+    "message": "Build ",
+    "description": "The label for category Build  in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.MLflow Tracking": {
+    "message": "MLflow Tracking",
+    "description": "The label for category MLflow Tracking in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Search": {
+    "message": "Search",
+    "description": "The label for category Search in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.MLflow Model": {
+    "message": "MLflow Model",
+    "description": "The label for category MLflow Model in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.notebooks": {
+    "message": "notebooks",
+    "description": "The label for category notebooks in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Deploy": {
+    "message": "Deploy",
+    "description": "The label for category Deploy in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.MLflow Model Registry": {
+    "message": "MLflow Model Registry",
+    "description": "The label for category MLflow Model Registry in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.MLflow Serving": {
+    "message": "MLflow Serving",
+    "description": "The label for category MLflow Serving in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Deploy MLflow Model to Kubernetes": {
+    "message": "Deploy MLflow Model to Kubernetes",
+    "description": "The label for category Deploy MLflow Model to Kubernetes in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.Team Collaboration": {
+    "message": "Team Collaboration",
+    "description": "The label for category Team Collaboration in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.API References": {
+    "message": "API References",
+    "description": "The label for category API References in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.category.More": {
+    "message": "More",
+    "description": "The label for category More in sidebar classicMLSidebar"
+  },
+  "sidebar.classicMLSidebar.link.Tracking Server": {
+    "message": "Tracking Server",
+    "description": "The label for link Tracking Server in sidebar classicMLSidebar, linking to /self-hosting/architecture/tracking-server/"
+  },
+  "sidebar.classicMLSidebar.link.Self-Hosting": {
+    "message": "Self-Hosting",
+    "description": "The label for link Self-Hosting in sidebar classicMLSidebar, linking to /self-hosting"
+  },
+  "sidebar.classicMLSidebar.link.Managed Services": {
+    "message": "Managed Services",
+    "description": "The label for link Managed Services in sidebar classicMLSidebar, linking to /ml/#running-mlflow-for-ml-models-anywhere"
+  },
+  "sidebar.classicMLSidebar.link.Access Control": {
+    "message": "Access Control",
+    "description": "The label for link Access Control in sidebar classicMLSidebar, linking to /self-hosting/security/basic-http-auth"
+  },
+  "sidebar.classicMLSidebar.link.Python API": {
+    "message": "Python API",
+    "description": "The label for link Python API in sidebar classicMLSidebar, linking to https://mlflow.org/docs/latest/api_reference/python_api/index.html"
+  },
+  "sidebar.classicMLSidebar.link.Java API": {
+    "message": "Java API",
+    "description": "The label for link Java API in sidebar classicMLSidebar, linking to https://mlflow.org/docs/latest/api_reference/java_api/index.html"
+  },
+  "sidebar.classicMLSidebar.link.R API": {
+    "message": "R API",
+    "description": "The label for link R API in sidebar classicMLSidebar, linking to https://mlflow.org/docs/latest/api_reference/R-api.html"
+  },
+  "sidebar.classicMLSidebar.link.REST API": {
+    "message": "REST API",
+    "description": "The label for link REST API in sidebar classicMLSidebar, linking to https://mlflow.org/docs/latest/api_reference/rest-api.html"
+  },
+  "sidebar.classicMLSidebar.link.CLI": {
+    "message": "CLI",
+    "description": "The label for link CLI in sidebar classicMLSidebar, linking to https://mlflow.org/docs/latest/api_reference/cli.html"
+  },
+  "sidebar.classicMLSidebar.link.Contributing": {
+    "message": "Contributing",
+    "description": "The label for link Contributing in sidebar classicMLSidebar, linking to https://github.com/mlflow/mlflow/blob/master/CONTRIBUTING.md"
+  },
+  "sidebar.classicMLSidebar.link.MLflow Blogs": {
+    "message": "MLflow Blogs",
+    "description": "The label for link MLflow Blogs in sidebar classicMLSidebar, linking to https://mlflow.org/blog/index.html"
+  },
+  "sidebar.classicMLSidebar.doc.MLflow": {
+    "message": "MLflow",
+    "description": "The label for the doc item MLflow in sidebar classicMLSidebar, linking to the doc index"
+  },
+  "sidebar.classicMLSidebar.doc.Set Up MLflow": {
+    "message": "Set Up MLflow",
+    "description": "The label for the doc item Set Up MLflow in sidebar classicMLSidebar, linking to the doc getting-started/running-notebooks/index"
+  },
+  "sidebar.classicMLSidebar.doc.Introduction to PythonModel": {
+    "message": "Introduction to PythonModel",
+    "description": "The label for the doc item Introduction to PythonModel in sidebar classicMLSidebar, linking to the doc traditional-ml/tutorials/creating-custom-pyfunc/notebooks/basic-pyfunc-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Custom Model Basics": {
+    "message": "Custom Model Basics",
+    "description": "The label for the doc item Custom Model Basics in sidebar classicMLSidebar, linking to the doc traditional-ml/tutorials/creating-custom-pyfunc/notebooks/introduction-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Customizing the `predict` method": {
+    "message": "Customizing the `predict` method",
+    "description": "The label for the doc item Customizing the `predict` method in sidebar classicMLSidebar, linking to the doc traditional-ml/tutorials/creating-custom-pyfunc/notebooks/override-predict-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Notebooks": {
+    "message": "Notebooks",
+    "description": "The label for the doc item Notebooks in sidebar classicMLSidebar, linking to the doc traditional-ml/tutorials/serving-multiple-models-with-pyfunc/notebooks/MME_Tutorial-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Scikit-learn": {
+    "message": "Scikit-learn",
+    "description": "The label for the doc item Scikit-learn in sidebar classicMLSidebar, linking to the doc traditional-ml/sklearn/index"
+  },
+  "sidebar.classicMLSidebar.doc.XGBoost": {
+    "message": "XGBoost",
+    "description": "The label for the doc item XGBoost in sidebar classicMLSidebar, linking to the doc traditional-ml/xgboost/index"
+  },
+  "sidebar.classicMLSidebar.doc.SparkML": {
+    "message": "SparkML",
+    "description": "The label for the doc item SparkML in sidebar classicMLSidebar, linking to the doc traditional-ml/sparkml/index"
+  },
+  "sidebar.classicMLSidebar.doc.Prophet": {
+    "message": "Prophet",
+    "description": "The label for the doc item Prophet in sidebar classicMLSidebar, linking to the doc traditional-ml/prophet/index"
+  },
+  "sidebar.classicMLSidebar.doc.PyTorch": {
+    "message": "PyTorch",
+    "description": "The label for the doc item PyTorch in sidebar classicMLSidebar, linking to the doc deep-learning/pytorch/index"
+  },
+  "sidebar.classicMLSidebar.doc.TensorFlow": {
+    "message": "TensorFlow",
+    "description": "The label for the doc item TensorFlow in sidebar classicMLSidebar, linking to the doc deep-learning/tensorflow/index"
+  },
+  "sidebar.classicMLSidebar.doc.Keras": {
+    "message": "Keras",
+    "description": "The label for the doc item Keras in sidebar classicMLSidebar, linking to the doc deep-learning/keras/index"
+  },
+  "sidebar.classicMLSidebar.doc.Working with Large Transformers Models": {
+    "message": "Working with Large Transformers Models",
+    "description": "The label for the doc item Working with Large Transformers Models in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/large-models/index"
+  },
+  "sidebar.classicMLSidebar.doc.Transformers Task Types": {
+    "message": "Transformers Task Types",
+    "description": "The label for the doc item Transformers Task Types in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/task/index"
+  },
+  "sidebar.classicMLSidebar.doc.Introduction to Conversational Models": {
+    "message": "Introduction to Conversational Models",
+    "description": "The label for the doc item Introduction to Conversational Models in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/tutorials/conversational/conversational-model-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Custom Conversational Models": {
+    "message": "Custom Conversational Models",
+    "description": "The label for the doc item Custom Conversational Models in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/tutorials/conversational/pyfunc-chat-model-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Introduction to Fine Tuning": {
+    "message": "Introduction to Fine Tuning",
+    "description": "The label for the doc item Introduction to Fine Tuning in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/tutorials/fine-tuning/transformers-fine-tuning-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Leveraging PEFT for Fine Tuning": {
+    "message": "Leveraging PEFT for Fine Tuning",
+    "description": "The label for the doc item Leveraging PEFT for Fine Tuning in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/tutorials/fine-tuning/transformers-peft-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Introduction to Audio Transcription": {
+    "message": "Introduction to Audio Transcription",
+    "description": "The label for the doc item Introduction to Audio Transcription in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/tutorials/audio-transcription/whisper-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Introduction to Prompt Templating": {
+    "message": "Introduction to Prompt Templating",
+    "description": "The label for the doc item Introduction to Prompt Templating in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/tutorials/prompt-templating/prompt-templating-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Text Generation Models": {
+    "message": "Text Generation Models",
+    "description": "The label for the doc item Text Generation Models in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/tutorials/text-generation/text-generation-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Translation Models": {
+    "message": "Translation Models",
+    "description": "The label for the doc item Translation Models in sidebar classicMLSidebar, linking to the doc deep-learning/transformers/tutorials/translation/component-translation-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Quickstart": {
+    "message": "Quickstart",
+    "description": "The label for the doc item Quickstart in sidebar classicMLSidebar, linking to the doc deep-learning/sentence-transformers/tutorials/quickstart/sentence-transformers-quickstart-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Semantic Similarity": {
+    "message": "Semantic Similarity",
+    "description": "The label for the doc item Semantic Similarity in sidebar classicMLSidebar, linking to the doc deep-learning/sentence-transformers/tutorials/semantic-similarity/semantic-similarity-sentence-transformers-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Semantic Search": {
+    "message": "Semantic Search",
+    "description": "The label for the doc item Semantic Search in sidebar classicMLSidebar, linking to the doc deep-learning/sentence-transformers/tutorials/semantic-search/semantic-search-sentence-transformers-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.Paraphrase Mining": {
+    "message": "Paraphrase Mining",
+    "description": "The label for the doc item Paraphrase Mining in sidebar classicMLSidebar, linking to the doc deep-learning/sentence-transformers/tutorials/paraphrase-mining/paraphrase-mining-sentence-transformers-ipynb"
+  },
+  "sidebar.classicMLSidebar.doc.spaCy": {
+    "message": "spaCy",
+    "description": "The label for the doc item spaCy in sidebar classicMLSidebar, linking to the doc deep-learning/spacy/index"
+  },
+  "sidebar.classicMLSidebar.doc.Auto Logging": {
+    "message": "Auto Logging",
+    "description": "The label for the doc item Auto Logging in sidebar classicMLSidebar, linking to the doc tracking/autolog/index"
+  },
+  "sidebar.classicMLSidebar.doc.System Metrics": {
+    "message": "System Metrics",
+    "description": "The label for the doc item System Metrics in sidebar classicMLSidebar, linking to the doc tracking/system-metrics/index"
+  },
+  "sidebar.classicMLSidebar.doc.Tracking APIs": {
+    "message": "Tracking APIs",
+    "description": "The label for the doc item Tracking APIs in sidebar classicMLSidebar, linking to the doc tracking/tracking-api/index"
+  },
+  "sidebar.classicMLSidebar.doc.Community-Managed Model Integrations": {
+    "message": "Community-Managed Model Integrations",
+    "description": "The label for the doc item Community-Managed Model Integrations in sidebar classicMLSidebar, linking to the doc community-model-flavors/index"
+  },
+  "sidebar.classicMLSidebar.doc.Pickle-Free Model format": {
+    "message": "Pickle-Free Model format",
+    "description": "The label for the doc item Pickle-Free Model format in sidebar classicMLSidebar, linking to the doc tracking/pickle-free-models/index"
+  },
+  "sidebar.classicMLSidebar.doc.MLflow Datasets": {
+    "message": "MLflow Datasets",
+    "description": "The label for the doc item MLflow Datasets in sidebar classicMLSidebar, linking to the doc dataset/index"
+  },
+  "sidebar.classicMLSidebar.doc.Evaluate": {
+    "message": "Evaluate",
+    "description": "The label for the doc item Evaluate in sidebar classicMLSidebar, linking to the doc evaluation/index"
+  },
+  "sidebar.classicMLSidebar.doc.Docker": {
+    "message": "Docker",
+    "description": "The label for the doc item Docker in sidebar classicMLSidebar, linking to the doc docker/index"
+  },
+  "sidebar.classicMLSidebar.doc.MLflow Projects": {
+    "message": "MLflow Projects",
+    "description": "The label for the doc item MLflow Projects in sidebar classicMLSidebar, linking to the doc projects/index"
+  },
+  "sidebar.classicMLSidebar.doc.MLflow 3.0 Migration": {
+    "message": "MLflow 3.0 Migration",
+    "description": "The label for the doc item MLflow 3.0 Migration in sidebar classicMLSidebar, linking to the doc mlflow-3/index"
+  },
+  "sidebar.classicMLSidebar.doc.MLflow Plugins": {
+    "message": "MLflow Plugins",
+    "description": "The label for the doc item MLflow Plugins in sidebar classicMLSidebar, linking to the doc plugins/index"
+  },
+  "sidebar.classicMLSidebar.doc.External Tutorials": {
+    "message": "External Tutorials",
+    "description": "The label for the doc item External Tutorials in sidebar classicMLSidebar, linking to the doc tutorials-and-examples/index"
+  }
+}
