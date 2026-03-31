@@ -1,0 +1,794 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.genAISidebar.category.Tracing (Observability)": {
+    "message": "Tracing (Observability)",
+    "description": "The label for category Tracing (Observability) in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Trace Your App & Agents": {
+    "message": "Trace Your App & Agents",
+    "description": "The label for category Trace Your App & Agents in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.View & Manage Traces": {
+    "message": "View & Manage Traces",
+    "description": "The label for category View & Manage Traces in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Enhance Your Traces": {
+    "message": "Enhance Your Traces",
+    "description": "The label for category Enhance Your Traces in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Deploy to Production": {
+    "message": "Deploy to Production",
+    "description": "The label for category Deploy to Production in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Integrations": {
+    "message": "Integrations",
+    "description": "The label for category Integrations in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Frameworks": {
+    "message": "Frameworks",
+    "description": "The label for category Frameworks in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Coding Agents": {
+    "message": "Coding Agents",
+    "description": "The label for category Coding Agents in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Model Providers": {
+    "message": "Model Providers",
+    "description": "The label for category Model Providers in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Tools": {
+    "message": "Tools",
+    "description": "The label for category Tools in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Gateways": {
+    "message": "Gateways",
+    "description": "The label for category Gateways in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.OpenTelemetry": {
+    "message": "OpenTelemetry",
+    "description": "The label for category OpenTelemetry in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Evaluation & Monitoring": {
+    "message": "Evaluation & Monitoring",
+    "description": "The label for category Evaluation & Monitoring in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Running Evaluations": {
+    "message": "Running Evaluations",
+    "description": "The label for category Running Evaluations in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Evaluate Conversations": {
+    "message": "Evaluate Conversations",
+    "description": "The label for category Evaluate Conversations in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Judges and Scorers": {
+    "message": "Judges and Scorers",
+    "description": "The label for category Judges and Scorers in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Built-in Judges": {
+    "message": "Built-in Judges",
+    "description": "The label for category Built-in Judges in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.RAG": {
+    "message": "RAG",
+    "description": "The label for category RAG in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Response Quality": {
+    "message": "Response Quality",
+    "description": "The label for category Response Quality in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Tool Call": {
+    "message": "Tool Call",
+    "description": "The label for category Tool Call in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Third-party Judges": {
+    "message": "Third-party Judges",
+    "description": "The label for category Third-party Judges in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Custom Judges": {
+    "message": "Custom Judges",
+    "description": "The label for category Custom Judges in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Code-based Scorers": {
+    "message": "Code-based Scorers",
+    "description": "The label for category Code-based Scorers in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Align with Human Feedback": {
+    "message": "Align with Human Feedback",
+    "description": "The label for category Align with Human Feedback in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Evaluation Datasets": {
+    "message": "Evaluation Datasets",
+    "description": "The label for category Evaluation Datasets in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Annotation": {
+    "message": "Annotation",
+    "description": "The label for category Annotation in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.AI Insights": {
+    "message": "AI Insights",
+    "description": "The label for category AI Insights in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Prompt Management & Optimization": {
+    "message": "Prompt Management & Optimization",
+    "description": "The label for category Prompt Management & Optimization in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Optimize Prompts": {
+    "message": "Optimize Prompts",
+    "description": "The label for category Optimize Prompts in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.AI Gateway": {
+    "message": "AI Gateway",
+    "description": "The label for category AI Gateway in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.API Keys": {
+    "message": "API Keys",
+    "description": "The label for category API Keys in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Endpoints": {
+    "message": "Endpoints",
+    "description": "The label for category Endpoints in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Gateway Server (Legacy)": {
+    "message": "Gateway Server (Legacy)",
+    "description": "The label for category Gateway Server (Legacy) in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Version Tracking": {
+    "message": "Version Tracking",
+    "description": "The label for category Version Tracking in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Packaging & Deployment": {
+    "message": "Packaging & Deployment",
+    "description": "The label for category Packaging & Deployment in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.DSPy": {
+    "message": "DSPy",
+    "description": "The label for category DSPy in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.LangChain": {
+    "message": "LangChain",
+    "description": "The label for category LangChain in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.LlamaIndex": {
+    "message": "LlamaIndex",
+    "description": "The label for category LlamaIndex in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Custom Applications": {
+    "message": "Custom Applications",
+    "description": "The label for category Custom Applications in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Building with ChatModel": {
+    "message": "Building with ChatModel",
+    "description": "The label for category Building with ChatModel in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.MCP": {
+    "message": "MCP",
+    "description": "The label for category MCP in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Agent Serving": {
+    "message": "Agent Serving",
+    "description": "The label for category Agent Serving in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.category.Concepts": {
+    "message": "Concepts",
+    "description": "The label for category Concepts in sidebar genAISidebar"
+  },
+  "sidebar.genAISidebar.link.Evaluate LLMs and Agents": {
+    "message": "Evaluate LLMs and Agents",
+    "description": "The label for link Evaluate LLMs and Agents in sidebar genAISidebar, linking to /genai/eval-monitor/quickstart/"
+  },
+  "sidebar.genAISidebar.doc.Overview": {
+    "message": "Overview",
+    "description": "The label for the doc item Overview in sidebar genAISidebar, linking to the doc tracing/opentelemetry/index"
+  },
+  "sidebar.genAISidebar.doc.Start Tracing": {
+    "message": "Start Tracing",
+    "description": "The label for the doc item Start Tracing in sidebar genAISidebar, linking to the doc tracing/quickstart/index"
+  },
+  "sidebar.genAISidebar.doc.Try MLflow's AI Assistant": {
+    "message": "Try MLflow's AI Assistant",
+    "description": "The label for the doc item Try MLflow's AI Assistant in sidebar genAISidebar, linking to the doc getting-started/try-assistant"
+  },
+  "sidebar.genAISidebar.doc.Automatic Issue Detection": {
+    "message": "Automatic Issue Detection",
+    "description": "The label for the doc item Automatic Issue Detection in sidebar genAISidebar, linking to the doc eval-monitor/ai-insights/detect-issues"
+  },
+  "sidebar.genAISidebar.doc.Quickstart": {
+    "message": "Quickstart",
+    "description": "The label for the doc item Quickstart in sidebar genAISidebar, linking to the doc version-tracking/quickstart"
+  },
+  "sidebar.genAISidebar.doc.Automatic Tracing": {
+    "message": "Automatic Tracing",
+    "description": "The label for the doc item Automatic Tracing in sidebar genAISidebar, linking to the doc tracing/app-instrumentation/automatic"
+  },
+  "sidebar.genAISidebar.doc.Manual Tracing": {
+    "message": "Manual Tracing",
+    "description": "The label for the doc item Manual Tracing in sidebar genAISidebar, linking to the doc tracing/app-instrumentation/manual-tracing"
+  },
+  "sidebar.genAISidebar.doc.Tracing with OpenTelemetry": {
+    "message": "Tracing with OpenTelemetry",
+    "description": "The label for the doc item Tracing with OpenTelemetry in sidebar genAISidebar, linking to the doc tracing/app-instrumentation/opentelemetry"
+  },
+  "sidebar.genAISidebar.doc.Distributed Tracing": {
+    "message": "Distributed Tracing",
+    "description": "The label for the doc item Distributed Tracing in sidebar genAISidebar, linking to the doc tracing/app-instrumentation/distributed-tracing"
+  },
+  "sidebar.genAISidebar.doc.Dashboard (Overview)": {
+    "message": "Dashboard (Overview)",
+    "description": "The label for the doc item Dashboard (Overview) in sidebar genAISidebar, linking to the doc tracing/observe-with-traces/dashboard"
+  },
+  "sidebar.genAISidebar.doc.View Traces": {
+    "message": "View Traces",
+    "description": "The label for the doc item View Traces in sidebar genAISidebar, linking to the doc tracing/observe-with-traces/ui"
+  },
+  "sidebar.genAISidebar.doc.Search Traces": {
+    "message": "Search Traces",
+    "description": "The label for the doc item Search Traces in sidebar genAISidebar, linking to the doc tracing/search-traces"
+  },
+  "sidebar.genAISidebar.doc.Delete Traces": {
+    "message": "Delete Traces",
+    "description": "The label for the doc item Delete Traces in sidebar genAISidebar, linking to the doc tracing/observe-with-traces/delete-traces"
+  },
+  "sidebar.genAISidebar.doc.Multimodal Content": {
+    "message": "Multimodal Content",
+    "description": "The label for the doc item Multimodal Content in sidebar genAISidebar, linking to the doc tracing/observe-with-traces/multimodal"
+  },
+  "sidebar.genAISidebar.doc.Token Usage and Cost": {
+    "message": "Token Usage and Cost",
+    "description": "The label for the doc item Token Usage and Cost in sidebar genAISidebar, linking to the doc tracing/token-usage-cost/index"
+  },
+  "sidebar.genAISidebar.doc.Track Users and Sessions": {
+    "message": "Track Users and Sessions",
+    "description": "The label for the doc item Track Users and Sessions in sidebar genAISidebar, linking to the doc tracing/track-users-sessions/index"
+  },
+  "sidebar.genAISidebar.doc.Tag Traces": {
+    "message": "Tag Traces",
+    "description": "The label for the doc item Tag Traces in sidebar genAISidebar, linking to the doc tracing/attach-tags/index"
+  },
+  "sidebar.genAISidebar.doc.Collect User Feedback": {
+    "message": "Collect User Feedback",
+    "description": "The label for the doc item Collect User Feedback in sidebar genAISidebar, linking to the doc tracing/collect-user-feedback/index"
+  },
+  "sidebar.genAISidebar.doc.Redact Sensitive Data": {
+    "message": "Redact Sensitive Data",
+    "description": "The label for the doc item Redact Sensitive Data in sidebar genAISidebar, linking to the doc tracing/observe-with-traces/masking"
+  },
+  "sidebar.genAISidebar.doc.Track Application Versions": {
+    "message": "Track Application Versions",
+    "description": "The label for the doc item Track Application Versions in sidebar genAISidebar, linking to the doc tracing/track-environments-context/index"
+  },
+  "sidebar.genAISidebar.doc.Production Monitoring": {
+    "message": "Production Monitoring",
+    "description": "The label for the doc item Production Monitoring in sidebar genAISidebar, linking to the doc tracing/prod-tracing"
+  },
+  "sidebar.genAISidebar.doc.Production Tracing SDK": {
+    "message": "Production Tracing SDK",
+    "description": "The label for the doc item Production Tracing SDK in sidebar genAISidebar, linking to the doc tracing/lightweight-sdk"
+  },
+  "sidebar.genAISidebar.doc.AG2": {
+    "message": "AG2",
+    "description": "The label for the doc item AG2 in sidebar genAISidebar, linking to the doc tracing/integrations/listing/ag2"
+  },
+  "sidebar.genAISidebar.doc.Agno": {
+    "message": "Agno",
+    "description": "The label for the doc item Agno in sidebar genAISidebar, linking to the doc tracing/integrations/listing/agno"
+  },
+  "sidebar.genAISidebar.doc.Amazon Bedrock AgentCore": {
+    "message": "Amazon Bedrock AgentCore",
+    "description": "The label for the doc item Amazon Bedrock AgentCore in sidebar genAISidebar, linking to the doc tracing/integrations/listing/bedrock-agentcore"
+  },
+  "sidebar.genAISidebar.doc.AutoGen": {
+    "message": "AutoGen",
+    "description": "The label for the doc item AutoGen in sidebar genAISidebar, linking to the doc tracing/integrations/listing/autogen"
+  },
+  "sidebar.genAISidebar.doc.CrewAI": {
+    "message": "CrewAI",
+    "description": "The label for the doc item CrewAI in sidebar genAISidebar, linking to the doc tracing/integrations/listing/crewai"
+  },
+  "sidebar.genAISidebar.doc.DSPy": {
+    "message": "DSPy",
+    "description": "The label for the doc item DSPy in sidebar genAISidebar, linking to the doc tracing/integrations/listing/dspy"
+  },
+  "sidebar.genAISidebar.doc.Google ADK": {
+    "message": "Google ADK",
+    "description": "The label for the doc item Google ADK in sidebar genAISidebar, linking to the doc tracing/integrations/listing/google-adk"
+  },
+  "sidebar.genAISidebar.doc.Haystack": {
+    "message": "Haystack",
+    "description": "The label for the doc item Haystack in sidebar genAISidebar, linking to the doc tracing/integrations/listing/haystack"
+  },
+  "sidebar.genAISidebar.doc.Koog": {
+    "message": "Koog",
+    "description": "The label for the doc item Koog in sidebar genAISidebar, linking to the doc tracing/integrations/listing/koog"
+  },
+  "sidebar.genAISidebar.doc.LangChain": {
+    "message": "LangChain",
+    "description": "The label for the doc item LangChain in sidebar genAISidebar, linking to the doc tracing/integrations/listing/langchain"
+  },
+  "sidebar.genAISidebar.doc.Goose": {
+    "message": "Goose",
+    "description": "The label for the doc item Goose in sidebar genAISidebar, linking to the doc tracing/integrations/listing/goose"
+  },
+  "sidebar.genAISidebar.doc.Langflow": {
+    "message": "Langflow",
+    "description": "The label for the doc item Langflow in sidebar genAISidebar, linking to the doc tracing/integrations/listing/langflow"
+  },
+  "sidebar.genAISidebar.doc.LangGraph": {
+    "message": "LangGraph",
+    "description": "The label for the doc item LangGraph in sidebar genAISidebar, linking to the doc tracing/integrations/listing/langgraph"
+  },
+  "sidebar.genAISidebar.doc.LiveKit Agents": {
+    "message": "LiveKit Agents",
+    "description": "The label for the doc item LiveKit Agents in sidebar genAISidebar, linking to the doc tracing/integrations/listing/livekit"
+  },
+  "sidebar.genAISidebar.doc.LangChain DeepAgent": {
+    "message": "LangChain DeepAgent",
+    "description": "The label for the doc item LangChain DeepAgent in sidebar genAISidebar, linking to the doc tracing/integrations/listing/deepagent"
+  },
+  "sidebar.genAISidebar.doc.LlamaIndex": {
+    "message": "LlamaIndex",
+    "description": "The label for the doc item LlamaIndex in sidebar genAISidebar, linking to the doc tracing/integrations/listing/llama_index"
+  },
+  "sidebar.genAISidebar.doc.Mastra": {
+    "message": "Mastra",
+    "description": "The label for the doc item Mastra in sidebar genAISidebar, linking to the doc tracing/integrations/listing/mastra"
+  },
+  "sidebar.genAISidebar.doc.Microsoft Agent Framework": {
+    "message": "Microsoft Agent Framework",
+    "description": "The label for the doc item Microsoft Agent Framework in sidebar genAISidebar, linking to the doc tracing/integrations/listing/microsoft-agent-framework"
+  },
+  "sidebar.genAISidebar.doc.OpenAI Agent": {
+    "message": "OpenAI Agent",
+    "description": "The label for the doc item OpenAI Agent in sidebar genAISidebar, linking to the doc tracing/integrations/listing/openai-agent"
+  },
+  "sidebar.genAISidebar.doc.Pipecat": {
+    "message": "Pipecat",
+    "description": "The label for the doc item Pipecat in sidebar genAISidebar, linking to the doc tracing/integrations/listing/pipecat"
+  },
+  "sidebar.genAISidebar.doc.PydanticAI": {
+    "message": "PydanticAI",
+    "description": "The label for the doc item PydanticAI in sidebar genAISidebar, linking to the doc tracing/integrations/listing/pydantic_ai"
+  },
+  "sidebar.genAISidebar.doc.Quarkus LangChain4j": {
+    "message": "Quarkus LangChain4j",
+    "description": "The label for the doc item Quarkus LangChain4j in sidebar genAISidebar, linking to the doc tracing/integrations/listing/quarkus-langchain4j"
+  },
+  "sidebar.genAISidebar.doc.Semantic Kernel": {
+    "message": "Semantic Kernel",
+    "description": "The label for the doc item Semantic Kernel in sidebar genAISidebar, linking to the doc tracing/integrations/listing/semantic_kernel"
+  },
+  "sidebar.genAISidebar.doc.Smolagents": {
+    "message": "Smolagents",
+    "description": "The label for the doc item Smolagents in sidebar genAISidebar, linking to the doc tracing/integrations/listing/smolagents"
+  },
+  "sidebar.genAISidebar.doc.Spring AI": {
+    "message": "Spring AI",
+    "description": "The label for the doc item Spring AI in sidebar genAISidebar, linking to the doc tracing/integrations/listing/spring-ai"
+  },
+  "sidebar.genAISidebar.doc.Strands Agents SDK": {
+    "message": "Strands Agents SDK",
+    "description": "The label for the doc item Strands Agents SDK in sidebar genAISidebar, linking to the doc tracing/integrations/listing/strands"
+  },
+  "sidebar.genAISidebar.doc.Txtai": {
+    "message": "Txtai",
+    "description": "The label for the doc item Txtai in sidebar genAISidebar, linking to the doc tracing/integrations/listing/txtai"
+  },
+  "sidebar.genAISidebar.doc.Vercel AI SDK": {
+    "message": "Vercel AI SDK",
+    "description": "The label for the doc item Vercel AI SDK in sidebar genAISidebar, linking to the doc tracing/integrations/listing/vercelai"
+  },
+  "sidebar.genAISidebar.doc.VoltAgent": {
+    "message": "VoltAgent",
+    "description": "The label for the doc item VoltAgent in sidebar genAISidebar, linking to the doc tracing/integrations/listing/voltagent"
+  },
+  "sidebar.genAISidebar.doc.Watsonx Orchestrate": {
+    "message": "Watsonx Orchestrate",
+    "description": "The label for the doc item Watsonx Orchestrate in sidebar genAISidebar, linking to the doc tracing/integrations/listing/watsonx-orchestrate"
+  },
+  "sidebar.genAISidebar.doc.Claude Code": {
+    "message": "Claude Code",
+    "description": "The label for the doc item Claude Code in sidebar genAISidebar, linking to the doc tracing/integrations/listing/claude_code"
+  },
+  "sidebar.genAISidebar.doc.OpenCode": {
+    "message": "OpenCode",
+    "description": "The label for the doc item OpenCode in sidebar genAISidebar, linking to the doc tracing/integrations/listing/opencode"
+  },
+  "sidebar.genAISidebar.doc.OpenHands": {
+    "message": "OpenHands",
+    "description": "The label for the doc item OpenHands in sidebar genAISidebar, linking to the doc tracing/integrations/listing/openhands"
+  },
+  "sidebar.genAISidebar.doc.Anthropic": {
+    "message": "Anthropic",
+    "description": "The label for the doc item Anthropic in sidebar genAISidebar, linking to the doc tracing/integrations/listing/anthropic"
+  },
+  "sidebar.genAISidebar.doc.AWS Bedrock": {
+    "message": "AWS Bedrock",
+    "description": "The label for the doc item AWS Bedrock in sidebar genAISidebar, linking to the doc tracing/integrations/listing/bedrock"
+  },
+  "sidebar.genAISidebar.doc.BytePlus": {
+    "message": "BytePlus",
+    "description": "The label for the doc item BytePlus in sidebar genAISidebar, linking to the doc tracing/integrations/listing/byteplus"
+  },
+  "sidebar.genAISidebar.doc.Cohere": {
+    "message": "Cohere",
+    "description": "The label for the doc item Cohere in sidebar genAISidebar, linking to the doc tracing/integrations/listing/cohere"
+  },
+  "sidebar.genAISidebar.doc.Databricks": {
+    "message": "Databricks",
+    "description": "The label for the doc item Databricks in sidebar genAISidebar, linking to the doc tracing/integrations/listing/databricks-ai-gateway"
+  },
+  "sidebar.genAISidebar.doc.DeepSeek": {
+    "message": "DeepSeek",
+    "description": "The label for the doc item DeepSeek in sidebar genAISidebar, linking to the doc tracing/integrations/listing/deepseek"
+  },
+  "sidebar.genAISidebar.doc.FireworksAI": {
+    "message": "FireworksAI",
+    "description": "The label for the doc item FireworksAI in sidebar genAISidebar, linking to the doc tracing/integrations/listing/fireworksai"
+  },
+  "sidebar.genAISidebar.doc.Gemini": {
+    "message": "Gemini",
+    "description": "The label for the doc item Gemini in sidebar genAISidebar, linking to the doc tracing/integrations/listing/gemini"
+  },
+  "sidebar.genAISidebar.doc.Groq": {
+    "message": "Groq",
+    "description": "The label for the doc item Groq in sidebar genAISidebar, linking to the doc tracing/integrations/listing/groq"
+  },
+  "sidebar.genAISidebar.doc.Kimi (Moonshot AI)": {
+    "message": "Kimi (Moonshot AI)",
+    "description": "The label for the doc item Kimi (Moonshot AI) in sidebar genAISidebar, linking to the doc tracing/integrations/listing/moonshot"
+  },
+  "sidebar.genAISidebar.doc.LiteLLM": {
+    "message": "LiteLLM",
+    "description": "The label for the doc item LiteLLM in sidebar genAISidebar, linking to the doc tracing/integrations/listing/litellm"
+  },
+  "sidebar.genAISidebar.doc.Mistral": {
+    "message": "Mistral",
+    "description": "The label for the doc item Mistral in sidebar genAISidebar, linking to the doc tracing/integrations/listing/mistral"
+  },
+  "sidebar.genAISidebar.doc.Novita AI": {
+    "message": "Novita AI",
+    "description": "The label for the doc item Novita AI in sidebar genAISidebar, linking to the doc tracing/integrations/listing/novitaai"
+  },
+  "sidebar.genAISidebar.doc.Ollama": {
+    "message": "Ollama",
+    "description": "The label for the doc item Ollama in sidebar genAISidebar, linking to the doc tracing/integrations/listing/ollama"
+  },
+  "sidebar.genAISidebar.doc.OpenAI": {
+    "message": "OpenAI",
+    "description": "The label for the doc item OpenAI in sidebar genAISidebar, linking to the doc tracing/integrations/listing/openai"
+  },
+  "sidebar.genAISidebar.doc.Qwen": {
+    "message": "Qwen",
+    "description": "The label for the doc item Qwen in sidebar genAISidebar, linking to the doc tracing/integrations/listing/qwen"
+  },
+  "sidebar.genAISidebar.doc.Together AI": {
+    "message": "Together AI",
+    "description": "The label for the doc item Together AI in sidebar genAISidebar, linking to the doc tracing/integrations/listing/togetherai"
+  },
+  "sidebar.genAISidebar.doc.xAI / Grok": {
+    "message": "xAI / Grok",
+    "description": "The label for the doc item xAI / Grok in sidebar genAISidebar, linking to the doc tracing/integrations/listing/xai-grok"
+  },
+  "sidebar.genAISidebar.doc.Instructor": {
+    "message": "Instructor",
+    "description": "The label for the doc item Instructor in sidebar genAISidebar, linking to the doc tracing/integrations/listing/instructor"
+  },
+  "sidebar.genAISidebar.doc.MLflow AI Gateway": {
+    "message": "MLflow AI Gateway",
+    "description": "The label for the doc item MLflow AI Gateway in sidebar genAISidebar, linking to the doc tracing/integrations/listing/mlflow-ai-gateway"
+  },
+  "sidebar.genAISidebar.doc.Helicone": {
+    "message": "Helicone",
+    "description": "The label for the doc item Helicone in sidebar genAISidebar, linking to the doc tracing/integrations/listing/helicone"
+  },
+  "sidebar.genAISidebar.doc.Kong AI Gateway": {
+    "message": "Kong AI Gateway",
+    "description": "The label for the doc item Kong AI Gateway in sidebar genAISidebar, linking to the doc tracing/integrations/listing/kong"
+  },
+  "sidebar.genAISidebar.doc.LiteLLM Proxy": {
+    "message": "LiteLLM Proxy",
+    "description": "The label for the doc item LiteLLM Proxy in sidebar genAISidebar, linking to the doc tracing/integrations/listing/litellm-proxy"
+  },
+  "sidebar.genAISidebar.doc.OpenRouter": {
+    "message": "OpenRouter",
+    "description": "The label for the doc item OpenRouter in sidebar genAISidebar, linking to the doc tracing/integrations/listing/openrouter"
+  },
+  "sidebar.genAISidebar.doc.Portkey": {
+    "message": "Portkey",
+    "description": "The label for the doc item Portkey in sidebar genAISidebar, linking to the doc tracing/integrations/listing/portkey"
+  },
+  "sidebar.genAISidebar.doc.Pydantic AI Gateway": {
+    "message": "Pydantic AI Gateway",
+    "description": "The label for the doc item Pydantic AI Gateway in sidebar genAISidebar, linking to the doc tracing/integrations/listing/pydantic-ai-gateway"
+  },
+  "sidebar.genAISidebar.doc.TrueFoundry": {
+    "message": "TrueFoundry",
+    "description": "The label for the doc item TrueFoundry in sidebar genAISidebar, linking to the doc tracing/integrations/listing/truefoundry"
+  },
+  "sidebar.genAISidebar.doc.Vercel AI Gateway": {
+    "message": "Vercel AI Gateway",
+    "description": "The label for the doc item Vercel AI Gateway in sidebar genAISidebar, linking to the doc tracing/integrations/listing/vercel-ai-gateway"
+  },
+  "sidebar.genAISidebar.doc.Add New Integration": {
+    "message": "Add New Integration",
+    "description": "The label for the doc item Add New Integration in sidebar genAISidebar, linking to the doc tracing/integrations/contribute"
+  },
+  "sidebar.genAISidebar.doc.Attribute Mapping": {
+    "message": "Attribute Mapping",
+    "description": "The label for the doc item Attribute Mapping in sidebar genAISidebar, linking to the doc tracing/opentelemetry/attribute-mapping"
+  },
+  "sidebar.genAISidebar.doc.FAQ": {
+    "message": "FAQ",
+    "description": "The label for the doc item FAQ in sidebar genAISidebar, linking to the doc eval-monitor/faq"
+  },
+  "sidebar.genAISidebar.doc.Examples": {
+    "message": "Examples",
+    "description": "The label for the doc item Examples in sidebar genAISidebar, linking to the doc eval-monitor/running-evaluation/eval-examples"
+  },
+  "sidebar.genAISidebar.doc.Evaluate Prompts": {
+    "message": "Evaluate Prompts",
+    "description": "The label for the doc item Evaluate Prompts in sidebar genAISidebar, linking to the doc eval-monitor/running-evaluation/prompts"
+  },
+  "sidebar.genAISidebar.doc.Evaluate Agents": {
+    "message": "Evaluate Agents",
+    "description": "The label for the doc item Evaluate Agents in sidebar genAISidebar, linking to the doc eval-monitor/running-evaluation/agents"
+  },
+  "sidebar.genAISidebar.doc.Evaluate Traces": {
+    "message": "Evaluate Traces",
+    "description": "The label for the doc item Evaluate Traces in sidebar genAISidebar, linking to the doc eval-monitor/running-evaluation/traces"
+  },
+  "sidebar.genAISidebar.doc.Conversation Simulation": {
+    "message": "Conversation Simulation",
+    "description": "The label for the doc item Conversation Simulation in sidebar genAISidebar, linking to the doc datasets/conversation-simulation"
+  },
+  "sidebar.genAISidebar.doc.Automatic Evaluation": {
+    "message": "Automatic Evaluation",
+    "description": "The label for the doc item Automatic Evaluation in sidebar genAISidebar, linking to the doc eval-monitor/automatic-evaluations/index"
+  },
+  "sidebar.genAISidebar.doc.Guidelines": {
+    "message": "Guidelines",
+    "description": "The label for the doc item Guidelines in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/guidelines"
+  },
+  "sidebar.genAISidebar.doc.Answer and Context Relevance": {
+    "message": "Answer and Context Relevance",
+    "description": "The label for the doc item Answer and Context Relevance in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/rag/relevance"
+  },
+  "sidebar.genAISidebar.doc.Groundedness": {
+    "message": "Groundedness",
+    "description": "The label for the doc item Groundedness in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/rag/groundedness"
+  },
+  "sidebar.genAISidebar.doc.Context Sufficiency": {
+    "message": "Context Sufficiency",
+    "description": "The label for the doc item Context Sufficiency in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/rag/context-sufficiency"
+  },
+  "sidebar.genAISidebar.doc.Safety": {
+    "message": "Safety",
+    "description": "The label for the doc item Safety in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/response-quality/safety"
+  },
+  "sidebar.genAISidebar.doc.Correctness": {
+    "message": "Correctness",
+    "description": "The label for the doc item Correctness in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/response-quality/correctness"
+  },
+  "sidebar.genAISidebar.doc.ToolCallCorrectness": {
+    "message": "ToolCallCorrectness",
+    "description": "The label for the doc item ToolCallCorrectness in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/tool-call/correctness"
+  },
+  "sidebar.genAISidebar.doc.ToolCallEfficiency": {
+    "message": "ToolCallEfficiency",
+    "description": "The label for the doc item ToolCallEfficiency in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/tool-call/efficiency"
+  },
+  "sidebar.genAISidebar.doc.DeepEval": {
+    "message": "DeepEval",
+    "description": "The label for the doc item DeepEval in sidebar genAISidebar, linking to the doc eval-monitor/scorers/third-party/deepeval"
+  },
+  "sidebar.genAISidebar.doc.RAGAS": {
+    "message": "RAGAS",
+    "description": "The label for the doc item RAGAS in sidebar genAISidebar, linking to the doc eval-monitor/scorers/third-party/ragas"
+  },
+  "sidebar.genAISidebar.doc.Arize Phoenix": {
+    "message": "Arize Phoenix",
+    "description": "The label for the doc item Arize Phoenix in sidebar genAISidebar, linking to the doc eval-monitor/scorers/third-party/phoenix"
+  },
+  "sidebar.genAISidebar.doc.TruLens": {
+    "message": "TruLens",
+    "description": "The label for the doc item TruLens in sidebar genAISidebar, linking to the doc eval-monitor/scorers/third-party/trulens"
+  },
+  "sidebar.genAISidebar.doc.Guardrails AI": {
+    "message": "Guardrails AI",
+    "description": "The label for the doc item Guardrails AI in sidebar genAISidebar, linking to the doc eval-monitor/scorers/third-party/guardrails"
+  },
+  "sidebar.genAISidebar.doc.Supported Judge Models": {
+    "message": "Supported Judge Models",
+    "description": "The label for the doc item Supported Judge Models in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/custom-judges/supported-models"
+  },
+  "sidebar.genAISidebar.doc.Create a Custom Judge": {
+    "message": "Create a Custom Judge",
+    "description": "The label for the doc item Create a Custom Judge in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/custom-judges/create-custom-judge"
+  },
+  "sidebar.genAISidebar.doc.Code-based Scorer Examples": {
+    "message": "Code-based Scorer Examples",
+    "description": "The label for the doc item Code-based Scorer Examples in sidebar genAISidebar, linking to the doc eval-monitor/scorers/custom/code-examples"
+  },
+  "sidebar.genAISidebar.doc.Tutorial: Develop code-based scorers": {
+    "message": "Tutorial: Develop code-based scorers",
+    "description": "The label for the doc item Tutorial: Develop code-based scorers in sidebar genAISidebar, linking to the doc eval-monitor/scorers/custom/tutorial"
+  },
+  "sidebar.genAISidebar.doc.SIMBA Optimizer": {
+    "message": "SIMBA Optimizer",
+    "description": "The label for the doc item SIMBA Optimizer in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/simba"
+  },
+  "sidebar.genAISidebar.doc.MemAlign Optimizer": {
+    "message": "MemAlign Optimizer",
+    "description": "The label for the doc item MemAlign Optimizer in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/memalign"
+  },
+  "sidebar.genAISidebar.doc.Custom Optimizers": {
+    "message": "Custom Optimizers",
+    "description": "The label for the doc item Custom Optimizers in sidebar genAISidebar, linking to the doc eval-monitor/scorers/llm-judge/custom-optimizers"
+  },
+  "sidebar.genAISidebar.doc.Versioning Scorers": {
+    "message": "Versioning Scorers",
+    "description": "The label for the doc item Versioning Scorers in sidebar genAISidebar, linking to the doc eval-monitor/scorers/versioning"
+  },
+  "sidebar.genAISidebar.doc.SDK Guide": {
+    "message": "SDK Guide",
+    "description": "The label for the doc item SDK Guide in sidebar genAISidebar, linking to the doc datasets/sdk-guide"
+  },
+  "sidebar.genAISidebar.doc.End-to-End Workflow": {
+    "message": "End-to-End Workflow",
+    "description": "The label for the doc item End-to-End Workflow in sidebar genAISidebar, linking to the doc datasets/end-to-end-workflow"
+  },
+  "sidebar.genAISidebar.doc.Human Feedback": {
+    "message": "Human Feedback",
+    "description": "The label for the doc item Human Feedback in sidebar genAISidebar, linking to the doc assessments/feedback"
+  },
+  "sidebar.genAISidebar.doc.Annotating Ground Truth": {
+    "message": "Annotating Ground Truth",
+    "description": "The label for the doc item Annotating Ground Truth in sidebar genAISidebar, linking to the doc assessments/expectations"
+  },
+  "sidebar.genAISidebar.doc.AI Issue Discovery (MCP)": {
+    "message": "AI Issue Discovery (MCP)",
+    "description": "The label for the doc item AI Issue Discovery (MCP) in sidebar genAISidebar, linking to the doc eval-monitor/ai-insights/ai-issue-discovery"
+  },
+  "sidebar.genAISidebar.doc.Migrating from MLflow 2 LLM Evaluation": {
+    "message": "Migrating from MLflow 2 LLM Evaluation",
+    "description": "The label for the doc item Migrating from MLflow 2 LLM Evaluation in sidebar genAISidebar, linking to the doc eval-monitor/legacy-llm-evaluation"
+  },
+  "sidebar.genAISidebar.doc.Prompt Engineering UI": {
+    "message": "Prompt Engineering UI",
+    "description": "The label for the doc item Prompt Engineering UI in sidebar genAISidebar, linking to the doc prompt-registry/prompt-engineering"
+  },
+  "sidebar.genAISidebar.doc.Create and Manage API Keys": {
+    "message": "Create and Manage API Keys",
+    "description": "The label for the doc item Create and Manage API Keys in sidebar genAISidebar, linking to the doc governance/ai-gateway/api-keys/create-and-manage"
+  },
+  "sidebar.genAISidebar.doc.Encryption & Rotation": {
+    "message": "Encryption & Rotation",
+    "description": "The label for the doc item Encryption & Rotation in sidebar genAISidebar, linking to the doc governance/ai-gateway/api-keys/key-rotation"
+  },
+  "sidebar.genAISidebar.doc.Create and Manage Endpoints": {
+    "message": "Create and Manage Endpoints",
+    "description": "The label for the doc item Create and Manage Endpoints in sidebar genAISidebar, linking to the doc governance/ai-gateway/endpoints/create-and-manage"
+  },
+  "sidebar.genAISidebar.doc.Query Endpoints": {
+    "message": "Query Endpoints",
+    "description": "The label for the doc item Query Endpoints in sidebar genAISidebar, linking to the doc governance/ai-gateway/endpoints/query-endpoints"
+  },
+  "sidebar.genAISidebar.doc.Model Providers": {
+    "message": "Model Providers",
+    "description": "The label for the doc item Model Providers in sidebar genAISidebar, linking to the doc governance/ai-gateway/endpoints/model-providers"
+  },
+  "sidebar.genAISidebar.doc.Traffic Routing & Fallbacks": {
+    "message": "Traffic Routing & Fallbacks",
+    "description": "The label for the doc item Traffic Routing & Fallbacks in sidebar genAISidebar, linking to the doc governance/ai-gateway/traffic-routing-fallbacks"
+  },
+  "sidebar.genAISidebar.doc.Usage Tracking": {
+    "message": "Usage Tracking",
+    "description": "The label for the doc item Usage Tracking in sidebar genAISidebar, linking to the doc governance/ai-gateway/usage-tracking"
+  },
+  "sidebar.genAISidebar.doc.Budget Alerts & Limits": {
+    "message": "Budget Alerts & Limits",
+    "description": "The label for the doc item Budget Alerts & Limits in sidebar genAISidebar, linking to the doc governance/ai-gateway/budget-alerts-limits"
+  },
+  "sidebar.genAISidebar.doc.Setup": {
+    "message": "Setup",
+    "description": "The label for the doc item Setup in sidebar genAISidebar, linking to the doc governance/ai-gateway/legacy/setup"
+  },
+  "sidebar.genAISidebar.doc.Configuration": {
+    "message": "Configuration",
+    "description": "The label for the doc item Configuration in sidebar genAISidebar, linking to the doc governance/ai-gateway/legacy/configuration"
+  },
+  "sidebar.genAISidebar.doc.Usage": {
+    "message": "Usage",
+    "description": "The label for the doc item Usage in sidebar genAISidebar, linking to the doc governance/ai-gateway/legacy/usage"
+  },
+  "sidebar.genAISidebar.doc.DSPy Quickstart": {
+    "message": "DSPy Quickstart",
+    "description": "The label for the doc item DSPy Quickstart in sidebar genAISidebar, linking to the doc flavors/dspy/notebooks/dspy_quickstart-ipynb"
+  },
+  "sidebar.genAISidebar.doc.Using DSPy Optimizers": {
+    "message": "Using DSPy Optimizers",
+    "description": "The label for the doc item Using DSPy Optimizers in sidebar genAISidebar, linking to the doc flavors/dspy/optimizer"
+  },
+  "sidebar.genAISidebar.doc.Guide to using LangChain with MLflow": {
+    "message": "Guide to using LangChain with MLflow",
+    "description": "The label for the doc item Guide to using LangChain with MLflow in sidebar genAISidebar, linking to the doc flavors/langchain/guide/index"
+  },
+  "sidebar.genAISidebar.doc.LangChain Quickstart": {
+    "message": "LangChain Quickstart",
+    "description": "The label for the doc item LangChain Quickstart in sidebar genAISidebar, linking to the doc flavors/langchain/notebooks/langchain-quickstart-ipynb"
+  },
+  "sidebar.genAISidebar.doc.Retrievers with LangChain": {
+    "message": "Retrievers with LangChain",
+    "description": "The label for the doc item Retrievers with LangChain in sidebar genAISidebar, linking to the doc flavors/langchain/notebooks/langchain-retriever-ipynb"
+  },
+  "sidebar.genAISidebar.doc.LlamaIndex Quickstart": {
+    "message": "LlamaIndex Quickstart",
+    "description": "The label for the doc item LlamaIndex Quickstart in sidebar genAISidebar, linking to the doc flavors/llama-index/notebooks/llama_index_quickstart-ipynb"
+  },
+  "sidebar.genAISidebar.doc.Agents with LlamaIndex": {
+    "message": "Agents with LlamaIndex",
+    "description": "The label for the doc item Agents with LlamaIndex in sidebar genAISidebar, linking to the doc flavors/llama-index/notebooks/llama_index_workflow_tutorial-ipynb"
+  },
+  "sidebar.genAISidebar.doc.Custom App Development Guide": {
+    "message": "Custom App Development Guide",
+    "description": "The label for the doc item Custom App Development Guide in sidebar genAISidebar, linking to the doc flavors/custom-pyfunc-for-llms/notebooks/custom-pyfunc-advanced-llm-ipynb"
+  },
+  "sidebar.genAISidebar.doc.Intro to ChatModel": {
+    "message": "Intro to ChatModel",
+    "description": "The label for the doc item Intro to ChatModel in sidebar genAISidebar, linking to the doc flavors/chat-model-intro/index"
+  },
+  "sidebar.genAISidebar.doc.ChatModel Tool Calling Example": {
+    "message": "ChatModel Tool Calling Example",
+    "description": "The label for the doc item ChatModel Tool Calling Example in sidebar genAISidebar, linking to the doc flavors/chat-model-guide/chat-model-tool-calling-ipynb"
+  },
+  "sidebar.genAISidebar.doc.Building with ResponsesAgent": {
+    "message": "Building with ResponsesAgent",
+    "description": "The label for the doc item Building with ResponsesAgent in sidebar genAISidebar, linking to the doc flavors/responses-agent-intro"
+  },
+  "sidebar.genAISidebar.doc.Agent Server": {
+    "message": "Agent Server",
+    "description": "The label for the doc item Agent Server in sidebar genAISidebar, linking to the doc serving/agent-server"
+  },
+  "sidebar.genAISidebar.doc.Responses Agent": {
+    "message": "Responses Agent",
+    "description": "The label for the doc item Responses Agent in sidebar genAISidebar, linking to the doc serving/responses-agent"
+  },
+  "sidebar.genAISidebar.doc.Custom Apps": {
+    "message": "Custom Apps",
+    "description": "The label for the doc item Custom Apps in sidebar genAISidebar, linking to the doc serving/custom-apps"
+  },
+  "sidebar.genAISidebar.doc.Trace": {
+    "message": "Trace",
+    "description": "The label for the doc item Trace in sidebar genAISidebar, linking to the doc concepts/trace"
+  },
+  "sidebar.genAISidebar.doc.Span": {
+    "message": "Span",
+    "description": "The label for the doc item Span in sidebar genAISidebar, linking to the doc concepts/span"
+  },
+  "sidebar.genAISidebar.doc.Feedback": {
+    "message": "Feedback",
+    "description": "The label for the doc item Feedback in sidebar genAISidebar, linking to the doc concepts/feedback"
+  },
+  "sidebar.genAISidebar.doc.Expectations": {
+    "message": "Expectations",
+    "description": "The label for the doc item Expectations in sidebar genAISidebar, linking to the doc concepts/expectations"
+  },
+  "sidebar.genAISidebar.doc.Scorers": {
+    "message": "Scorers",
+    "description": "The label for the doc item Scorers in sidebar genAISidebar, linking to the doc concepts/scorers"
+  },
+  "sidebar.genAISidebar.doc.Evaluation Datasets": {
+    "message": "Evaluation Datasets",
+    "description": "The label for the doc item Evaluation Datasets in sidebar genAISidebar, linking to the doc concepts/evaluation-datasets"
+  },
+  "sidebar.genAISidebar.doc.Managed MLflow": {
+    "message": "Managed MLflow",
+    "description": "The label for the doc item Managed MLflow in sidebar genAISidebar, linking to the doc getting-started/databricks-trial/index"
+  }
+}

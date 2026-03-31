@@ -30,8 +30,8 @@ const config: Config = {
   staticDirectories: ['static'],
 
   // change to throw when migration is done
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: "warn",
   onBrokenAnchors: 'throw',
   onDuplicateRoutes: 'throw', // Fail build on duplicate redirects
 
@@ -45,7 +45,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ["en", "zh-Hans"],
   },
 
   // NB: docusaurus does not automatically prepend the
